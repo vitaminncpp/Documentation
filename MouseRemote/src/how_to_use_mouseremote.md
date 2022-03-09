@@ -4,7 +4,7 @@
     2. Android Client.
 
 # Installation
-- 
+- Steps:
     1. Download `.zip` file from [MouseRemote Server Release](https://github.com/Akshayaap/MouseRemoteServer/releases).
     2. Install Android Application from [MouseRemote Release](https://github.com/Akshayaap/MouseRemote/releases).
     3. Extract `zip` in your windows machine in a directory you like (Note : Keep ControlPanel.exe and MouseRemote.exe in same folder).
