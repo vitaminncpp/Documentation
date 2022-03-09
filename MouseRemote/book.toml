@@ -1,0 +1,6 @@
+[book]
+authors = ["Akshayaap"]
+language = "en"
+multilingual = false
+src = "src"
+title = "MouseRemote Documentation"
