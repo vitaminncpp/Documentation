@@ -1,6 +1,6 @@
 # Why MouseRemote
-- MouseRemote is Easy to use.
-- MouseRemote Provides Features like:
+- It is Easy to use.
+- It Provides Features like:
     1. Mouse Pointer Control
     2. Keyborad Control (Draft Release)
     3. Gaming Control (in Future Release)
